@@ -4,15 +4,14 @@ Escape the obstacles by jumping and sliding over and under obstacles, as you spr
 
 ## Project Screen Shot(s)
 
-#### Example:   
-
-![HomePage](https://github.com/sinking8/Ninja_Run/blob/main/images/1.PNG)
- </br> 
  
  ![HomePage](https://github.com/sinking8/Ninja_Run/blob/main/images/2.PNG)
  </br> 
  
  ![HomePage](https://github.com/sinking8/Ninja_Run/blob/main/images/3.PNG)
+ </br> 
+
+![HomePage](https://github.com/sinking8/Ninja_Run/blob/main/images/1.PNG)
  </br> 
 
 ## Installation and Setup Instructions
