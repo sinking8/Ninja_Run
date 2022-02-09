@@ -1,4 +1,4 @@
-# Ninja_Run
+# Ninja Run
 Escape the obstacles by jumping and sliding over and under obstacles, as you sprint along the 2D landscape, collecting gold to buy upgrades with on the way.
 
 
