@@ -14,25 +14,20 @@ Escape the obstacles by jumping and sliding over and under obstacles, as you spr
  
  ![HomePage](https://github.com/sinking8/Ninja_Run/blob/main/images/3.PNG)
  </br> 
+
 ## Installation and Setup Instructions
 
-#### Example:  
+### Quick Start
 
-Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
+1. Clone the repo
+  ```
+  $ git clone https://github.com/sinking8/Ninja_Run.git
+  $ cd Ninja_Run
+  ```
 
-Installation:
 
-`npm install`  
-
-To Run Test Suite:  
-
-`npm test`  
-
-To Start Server:
-
-`npm start`  
-
-To Visit App:
-
-`localhost:3000/ideas`  
-
+2. Execute the Application:
+  ```
+  $ javac Ninja_Run.java
+  $ java Ninja_Run.java
+  ```
